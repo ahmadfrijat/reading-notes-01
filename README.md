@@ -1,5 +1,17 @@
-# what we learn in class01 : 
+# welcome to my notes.
 
-* Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *
+* name : ahmad alfrijat (he/him).
 
-![markdown](https://resources.jetbrains.com/help/img/youtrack/2020.5/youtrack-markup-reference-markdown.zoomed.png)
+* e-mail : ahmadalfrijat7@gmail.com 
+
+* [my GitHub](https://github.com/ahmadfrijathttp://github.com)
+
+
+ 
+
+![image](https://wpshopmart.com/wp-content/uploads/2016/10/Code-It-Logical-HD-Wallpaper-1.jpg)
+
+
+
+1. [class02](https://ahmadfrijat.github.io/reading-notes/read2)
+1. [class03](https://ahmadfrijat.github.io/reading-notes/read2)
