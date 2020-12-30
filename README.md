@@ -13,6 +13,7 @@
 
 
 
+- [class01](https://ahmadfrijat.github.io/reading-notes-01/01)
 - [class02](https://ahmadfrijat.github.io/reading-notes-01/02)
 - [class03](https://ahmadfrijat.github.io/reading-notes-01/03)
 - [class04](https://ahmadfrijat.github.io/reading-notes-01/04)
