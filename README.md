@@ -17,3 +17,4 @@
 - [class02](https://ahmadfrijat.github.io/reading-notes-01/02)
 - [class03](https://ahmadfrijat.github.io/reading-notes-01/03)
 - [class04](https://ahmadfrijat.github.io/reading-notes-01/04)
+- [class05](https://ahmadfrijat.github.io/reading-notes-01/05)
