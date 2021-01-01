@@ -13,8 +13,9 @@
 
 
 
-- [class01](https://ahmadfrijat.github.io/reading-notes-01/01)
-- [class02](https://ahmadfrijat.github.io/reading-notes-01/02)
-- [class03](https://ahmadfrijat.github.io/reading-notes-01/03)
-- [class04](https://ahmadfrijat.github.io/reading-notes-01/04)
-- [class05](https://ahmadfrijat.github.io/reading-notes-01/05)
+- [class 01](https://ahmadfrijat.github.io/reading-notes-01/01)
+- [class 02](https://ahmadfrijat.github.io/reading-notes-01/02)
+- [class 03](https://ahmadfrijat.github.io/reading-notes-01/03)
+- [class 04](https://ahmadfrijat.github.io/reading-notes-01/04)
+- [class 05](https://ahmadfrijat.github.io/reading-notes-01/05)
+- [class 06](https://ahmadfrijat.github.io/reading-notes-01/06)
