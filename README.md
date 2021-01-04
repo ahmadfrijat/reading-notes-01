@@ -20,4 +20,4 @@
 - [class 05](https://ahmadfrijat.github.io/reading-notes-01/05)
 - [class 06](https://ahmadfrijat.github.io/reading-notes-01/06)
 - [class 07](https://ahmadfrijat.github.io/reading-notes-01/07)
-- [class 07](https://ahmadfrijat.github.io/reading-notes-01/08)
+- [class 08](https://ahmadfrijat.github.io/reading-notes-01/08)
