@@ -23,3 +23,4 @@
 - [class 08](https://ahmadfrijat.github.io/reading-notes-01/08)
 - [class 09](https://ahmadfrijat.github.io/reading-notes-01/09)
 - [class 10](https://ahmadfrijat.github.io/reading-notes-01/10)
+- [class 11](https://ahmadfrijat.github.io/reading-notes-01/11)
